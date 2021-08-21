@@ -9,20 +9,20 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-Learning-lightgrey)
 
 <p align = "left">
-  🎒 I'm coursing Computer engineering (CoE) <br>
+  🎒 I'm coursing Computer Engineering (CoE) <br>
   💻 OS': Linux and Win10 <br>
   😄 Pronouns: She/Her <br>
-  “𝘌𝘷𝘦𝘳𝘺𝘵𝘩𝘪𝘯𝘨'𝘴 𝘴𝘤𝘪𝘦𝘯𝘤𝘦 𝘧𝘪𝘤𝘵𝘪𝘰𝘯 𝘶𝘯𝘵𝘪𝘭 𝘴𝘰𝘮𝘦𝘰𝘯𝘦 𝘮𝘢𝘬𝘦𝘴 𝘪𝘵 𝘴𝘤𝘪𝘦𝘯𝘤𝘦 𝘧𝘢𝘤𝘵.”
+  <p align="right"> “𝘌𝘷𝘦𝘳𝘺𝘵𝘩𝘪𝘯𝘨'𝘴 𝘴𝘤𝘪𝘦𝘯𝘤𝘦 𝘧𝘪𝘤𝘵𝘪𝘰𝘯 𝘶𝘯𝘵𝘪𝘭 𝘴𝘰𝘮𝘦𝘰𝘯𝘦 𝘮𝘢𝘬𝘦𝘴 𝘪𝘵 𝘴𝘤𝘪𝘦𝘯𝘤𝘦 𝘧𝘢𝘤𝘵.” </p>
 </p>
 
 <details>
   <summary>𝐆𝐢𝐭𝐡𝐮𝐛 𝐏𝐮𝐛𝐥𝐢𝐜 𝐒𝐭𝐚𝐭𝐬 🧾</summary>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align = "right" src="https://github-profile-trophy.vercel.app/?username=rafaballerini&theme=juicyfresh&column=8&no-frame=true&no-bg=true">
+    <img align = "right" src="https://github-profile-trophy.vercel.app/?username=mrslima&theme=juicyfresh&column=8&no-frame=true&no-bg=true">
   </a>
   <p align = "center">
   <img src ="https://github-readme-stats.vercel.app/api?username=mrslima&show_icons=true&count_private=true&theme=highcontrast&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&hide_border=true&theme=highcontrast&bg_color=00000000&langs_count=6">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mrslima&layout=compact&hide_border=true&theme=highcontrast&bg_color=00000000&langs_count=6">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=mrslima&theme=highcontrast&hide_border=true&background=FFFFFF00">
   <br>
   <br>
