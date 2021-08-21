@@ -18,7 +18,7 @@
 <details>
   <summary>𝐆𝐢𝐭𝐡𝐮𝐛 𝐏𝐮𝐛𝐥𝐢𝐜 𝐒𝐭𝐚𝐭𝐬 🧾</summary>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align = "center" src="https://github-profile-trophy.vercel.app/?username=rafaballerini&theme=juicyfresh&column=8&no-frame=true&no-bg=true">
+    <img align = "center" src="https://github-profile-trophy.vercel.app/?username=rafaballerini&theme=juicyfresh&no-frame=true&no-bg=true">
   </a>
   <p align = "center">
   <img src ="https://github-readme-stats.vercel.app/api?username=mrslima&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&hide=issues,contribs&bg_color=00000000">
