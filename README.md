@@ -21,9 +21,9 @@
     <img align = "right" src="https://github-profile-trophy.vercel.app/?username=rafaballerini&theme=juicyfresh&column=8&no-frame=true&no-bg=true">
   </a>
   <p align = "center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=mrslima&show_icons=true&count_private=true&theme=highcontrast&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&hide_border=true&theme=highcontrast&bg_color=00000000&langs_count=6">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=mrslima&theme=highcontrast&hide_border=true&background=FFFFFF00">
+  <img src ="https://github-readme-stats.vercel.app/api?username=mrslima&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&hide_border=true&theme=gruvbox&bg_color=00000000&langs_count=6">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=mrslima&theme=gruvbox&hide_border=true&background=FFFFFF00">
   <br>
   <br>
   </p>
