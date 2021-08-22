@@ -55,6 +55,12 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mrslima&theme=default&hide_border=true&bg_color=f7ede2&color=84a59d&line=f5cac3&point=84a59d&area=true&area_color=f28482)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- cool soft black 24292e -->
 
+![Profile last updated](https://img.shields.io/github/last-commit/mrslima/mrslima?color=violet&label=Last%20Update&style=bold)
+![Profile Views](https://komarev.com/ghpvc/?username=mrslima&color=green&style=bold)
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px">
+-----
+## <img align="center" src="https://media.giphy.com/media/H68qSZkEG9qw39YvRD/giphy.gif" width="60px"> See ya!
+
 <!--
 ## 🛠️ My tools
 
@@ -156,10 +162,6 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 -->
-
-![Profile last updated](https://img.shields.io/github/last-commit/mrslima/mrslima?color=violet&label=Last%20Update&style=bold)
-![Profile Views](https://komarev.com/ghpvc/?username=mrslima&color=green&style=bold)
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px">
 
 <!--
 Here are some ideas to get you started:
