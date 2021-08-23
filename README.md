@@ -9,7 +9,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-Learning-lightgrey)
 
 <p align = "left">
-  🎒 I'm coursing Computer Engineering (CoE) <br>
+  🎒 I'm coursing Computer Science (CS) <br>
   💻 OS': Linux and Win10 <br>
   😄 Pronouns: She/Her <br>
   <p align="right"> “𝘌𝘷𝘦𝘳𝘺𝘵𝘩𝘪𝘯𝘨'𝘴 𝘴𝘤𝘪𝘦𝘯𝘤𝘦 𝘧𝘪𝘤𝘵𝘪𝘰𝘯 𝘶𝘯𝘵𝘪𝘭 𝘴𝘰𝘮𝘦𝘰𝘯𝘦 𝘮𝘢𝘬𝘦𝘴 𝘪𝘵 𝘴𝘤𝘪𝘦𝘯𝘤𝘦 𝘧𝘢𝘤𝘵.” </p>
