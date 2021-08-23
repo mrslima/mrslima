@@ -21,12 +21,15 @@
     <img align = "center" src="https://github-profile-trophy.vercel.app/?username=mrslima&theme=juicyfresh&column=7&no-frame=true&no-bg=true">
   </a>
   <p align = "center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=mrslima&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img src ="https://github-readme-stats.vercel.app/api?username=mrslima&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&hide=issues&bg_color=00000000">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mrslima&layout=compact&hide_border=true&theme=gruvbox&bg_color=00000000&langs_count=6">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=mrslima&theme=gruvbox&hide_border=true&background=FFFFFF00">
   <br>
   <br>
   </p>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img align = "center" src="https://activity-graph.herokuapp.com/graph?username=mrslima&theme=default&hide_border=true&bg_color=f7ede2&color=84a59d&line=f5cac3&point=84a59d&area=true&area_color=f28482">
+  </a>
 </details>
 
 
@@ -45,21 +48,22 @@
 
 -----
 
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mrslima&theme=default&hide_border=true&bg_color=f7ede2&color=84a59d&line=f5cac3&point=84a59d&area=true&area_color=f28482)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ cool soft black 24292e -->
+
+
 ## Now Jamming :headphones: 
 [![Spotify](https://spotifybadge.vercel.app/api/spotify)](https://open.spotify.com/user/7jlpf23yb8n91ft6vsthz68hu)
 <img align="right" src="https://media.giphy.com/media/HmEYYrsiMZDJC/giphy.gif" width="120px">
 
 ****
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mrslima&theme=default&hide_border=true&bg_color=f7ede2&color=84a59d&line=f5cac3&point=84a59d&area=true&area_color=f28482)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<!-- cool soft black 24292e -->
-
-![Profile last updated](https://img.shields.io/github/last-commit/mrslima/mrslima?color=violet&label=Last%20Update&style=bold)
-![Profile Views](https://komarev.com/ghpvc/?username=mrslima&color=green&style=bold)
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px">
------
 ## <img align="center" src="https://media.giphy.com/media/H68qSZkEG9qw39YvRD/giphy.gif" width="60px"> See ya!
+<p align="right">
+  <img src="https://img.shields.io/github/last-commit/mrslima/mrslima" color="violet" label="Last%20Update" style="bold">
+  <img src="https://komarev.com/ghpvc/?username=mrslima" color="green" label="Last%20Update" style="bold">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px">
+</p>
 
 <!--
 ## 🛠️ My tools
