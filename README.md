@@ -60,8 +60,8 @@
 ****
 ## <img align="center" src="https://media.giphy.com/media/H68qSZkEG9qw39YvRD/giphy.gif" width="60px"> See ya!
 <p align="right">
-  <img src="https://img.shields.io/github/last-commit/mrslima/mrslima" color="violet" label="Last%20Update" style="bold">
-  <img src="https://komarev.com/ghpvc/?username=mrslima" color="green" label="Last%20Update" style="bold">
+  <img src="https://img.shields.io/github/last-commit/mrslima/mrslima?label=Last%20update&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=mrslima&style=flat">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px">
 </p>
 
