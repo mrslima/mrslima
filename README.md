@@ -36,13 +36,13 @@
 <details>
   <summary>𝐅𝐢𝐧𝐝 𝐦𝐞 𝐚𝐫𝐨𝐮𝐧𝐝 𝐭𝐡𝐞 𝐰𝐞𝐛 📫</summary>
   
-  [![DEV Badge](https://img.shields.io/badge/-mrslima-0A0A0A?style=bold&logo=dev.to&logoColor=white)](https://dev.to/mrslima)
-  [![StackOverflow Badge](https://img.shields.io/badge/-MrsLima-FE7A16?style=bold&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/14450222/mrs-lima?tab=profile)
-  [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=bold&logo=Spotify&logoColor=white)](https://open.spotify.com/user/7jlpf23yb8n91ft6vsthz68hu "My Spotify playlists")
-  [![Linkedin Badge](https://img.shields.io/badge/-Daniela_Lima-blue?style=bold&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adanielalima/)](https://www.linkedin.com/in/adanielalima/)
-  [![Instagram Badge](https://img.shields.io/badge/-limaa.ds-purple?style=bold&logo=instagram&logoColor=white&link=https://instagram.com/limaa.ds/)](https://instagram.com/limaa.ds)
-  [![Telegram Badge](https://img.shields.io/badge/-@mrslimaads-0088CC?style=bold&logo=Telegram&logoColor=white)](https://t.me/mrslimaads "Contact on Telegram")
-  [![Reddit Badge](https://img.shields.io/badge/-u/mrslimaads-FF4500?style=bold&logo=Reddit&logoColor=white)](https://www.reddit.com/user/mrslimaads/ "Find on Reddit")
+  [![DEV Badge](https://img.shields.io/badge/Dev.to-0A0A0A?style=bold&logo=dev.to&logoColor=white)](https://dev.to/mrslima)
+  [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=bold&logo=medium&logoColor=white)](https://mrslima.medium.com/)
+  [![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-FE7A16?style=bold&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/14450222/mrs-lima?tab=profile)
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=bold&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adanielalima/)](https://www.linkedin.com/in/adanielalima/)
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-8b47ff?style=bold&logo=instagram&logoColor=white&link=https://instagram.com/limaa.ds/)](https://instagram.com/limaa.ds)
+  [![Telegram Badge](https://img.shields.io/badge/Telegram-0088CC?style=bold&logo=Telegram&logoColor=white)](https://t.me/mrslimaads "Contact on Telegram")
+  [![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=bold&logo=Reddit&logoColor=white)](https://www.reddit.com/user/mrslimaads/ "Find on Reddit")
 ----
 </details>
 
