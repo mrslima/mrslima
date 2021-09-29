@@ -1,4 +1,6 @@
-<img align="center" src="https://github.com/mrslima/mrslima/blob/main/.github/workflows/blob-scene-haikei%20(1)%20(1).png" alt="head"/>
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Hello world! I'm Daniela.&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
+<!-- <img align='left' float = 'left' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='180"'> -->
+<a href="https://stackoverflow.com/users/story/14450222"><img align='left' float = 'left' src="https://github-readme-stackoverflow.vercel.app/?userID=14450222&theme=light" height="250"></a>
 
 ![Python](https://img.shields.io/badge/Python-Learning-lightgrey)
 ![HTML](https://img.shields.io/badge/HTML-Learning-lightgrey)
