@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/mrslima/mrslima/blob/main/.github/workflows/blob-scene-haikei%20(2)%20(1).png" alt="head"/>
+<img align="center" src="https://github.com/mrslima/mrslima/blob/main/.github/workflows/blob-scene-haikei%20(1)%20(1).png" alt="head"/>
 
 ![Python](https://img.shields.io/badge/Python-Learning-lightgrey)
 ![HTML](https://img.shields.io/badge/HTML-Learning-lightgrey)
