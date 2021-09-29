@@ -1,4 +1,4 @@
-<img src="https://github.com/mrslima/mrslima/blob/main/.github/workflows/New%20Project%20(1).png" alt="stacks"/>
+<img align="center" src="https://github.com/mrslima/mrslima/blob/main/.github/workflows/New%20Project%20(1).png" alt="stacks"/>
 
 ![Python](https://img.shields.io/badge/Python-Learning-lightgrey)
 ![HTML](https://img.shields.io/badge/HTML-Learning-lightgrey)
