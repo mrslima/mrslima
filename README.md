@@ -12,6 +12,9 @@
   🎒 I'm coursing Computer Science (CS) <br>
   💻 OS': Linux and Win10 <br>
   😄 Pronouns: She/Her <br>
+  
+𝐅𝐢𝐧𝐝 𝐦𝐞 𝐚𝐫𝐨𝐮𝐧𝐝 𝐭𝐡𝐞 𝐰𝐞𝐛 📫 [All my Links](https://taplink.cc/limaa.ds)
+
   <p align="right"> “𝘌𝘷𝘦𝘳𝘺𝘵𝘩𝘪𝘯𝘨'𝘴 𝘴𝘤𝘪𝘦𝘯𝘤𝘦 𝘧𝘪𝘤𝘵𝘪𝘰𝘯 𝘶𝘯𝘵𝘪𝘭 𝘴𝘰𝘮𝘦𝘰𝘯𝘦 𝘮𝘢𝘬𝘦𝘴 𝘪𝘵 𝘴𝘤𝘪𝘦𝘯𝘤𝘦 𝘧𝘢𝘤𝘵.” </p>
 </p>
 
@@ -31,21 +34,7 @@
     <img align = "center" src="https://activity-graph.herokuapp.com/graph?username=mrslima&theme=default&hide_border=true&bg_color=f7ede2&color=84a59d&line=f5cac3&point=84a59d&area=true&area_color=f28482">
   </a>
 </details>
-
-
-<details>
-  <summary>𝐅𝐢𝐧𝐝 𝐦𝐞 𝐚𝐫𝐨𝐮𝐧𝐝 𝐭𝐡𝐞 𝐰𝐞𝐛 📫</summary>
   
-  [![DEV Badge](https://img.shields.io/badge/Dev.to-0A0A0A?style=bold&logo=dev.to&logoColor=white)](https://dev.to/mrslima)
-  [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=bold&logo=medium&logoColor=white)](https://mrslima.medium.com/)
-  [![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-FE7A16?style=bold&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/14450222/mrs-lima?tab=profile)
-  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=bold&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adanielalima/)](https://www.linkedin.com/in/adanielalima/)
-  [![Instagram Badge](https://img.shields.io/badge/Instagram-8b47ff?style=bold&logo=instagram&logoColor=white&link=https://instagram.com/limaa.ds/)](https://instagram.com/limaa.ds)
-  [![Telegram Badge](https://img.shields.io/badge/Telegram-0088CC?style=bold&logo=Telegram&logoColor=white)](https://t.me/mrslimaads "Contact on Telegram")
-  [![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=bold&logo=Reddit&logoColor=white)](https://www.reddit.com/user/mrslimaads/ "Find on Reddit")
-----
-</details>
-
 -----
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph 
