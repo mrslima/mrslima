@@ -27,6 +27,7 @@
 
 
 <!-- Resume -->
+<!--
 <details>
   <summary>𝐂𝐕/𝐑𝐞𝐬𝐮𝐦𝐞 📃</summary>
   
@@ -65,6 +66,7 @@
   <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white"></a><br>
 
 </details>
+-->
 
 ----
 
