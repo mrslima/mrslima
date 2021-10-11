@@ -22,7 +22,7 @@
   💻 OS': Linux and Win10 <br>
   😄 Pronouns: She/Her <br>
   <br>
-  𝐅𝐢𝐧𝐝 𝐦𝐞 𝐚𝐫𝐨𝐮𝐧𝐝 𝐭𝐡𝐞 𝐰𝐞𝐛 📫 <a href="https://taplink.cc/limaa.ds"><img alt="All my Links" src="https://img.shields.io/badge/linktree-1de9b6?logo=linktree&logoColor=white"></a>
+  𝐅𝐢𝐧𝐝 𝐦𝐞 𝐚𝐫𝐨𝐮𝐧𝐝 𝐭𝐡𝐞 𝐰𝐞𝐛 📫 <a href="https://taplink.cc/limaa.ds" target="_blank"><img alt="All my Links" src="https://img.shields.io/badge/linktree-1de9b6?logo=linktree&logoColor=white"></a>
 </p>
 
 
