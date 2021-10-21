@@ -1,5 +1,7 @@
 # Tags
 
+⚜**Add in description | Format: [S]**
+
 ### Category:
 * `A` - College
 * `B` - Personal Stuff
