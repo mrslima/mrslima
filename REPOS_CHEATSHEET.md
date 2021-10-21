@@ -1,6 +1,6 @@
 # Tags
 
-⚜**Add in description | Format: W.F.M.T9**
+⚜**Add in About/Topics | Format: mytag-w.f.m.t9**
 
 ### Category:
 * `A` - College
