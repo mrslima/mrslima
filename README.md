@@ -99,7 +99,6 @@
 <img align="right" src="https://media.giphy.com/media/HmEYYrsiMZDJC/giphy.gif" width="120px">
 
 ****
-## <img align="center" src="https://media.giphy.com/media/H68qSZkEG9qw39YvRD/giphy.gif" width="60px"> See ya!
 <p align="right">
   <img src="https://img.shields.io/github/last-commit/mrslima/mrslima?label=Last%20update&style=flat">
   <img src="https://komarev.com/ghpvc/?username=mrslima&style=flat">
