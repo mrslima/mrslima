@@ -2,26 +2,18 @@
 # Hello world! I'm Daniela.&nbsp;
 
 
-<!-- Stack Overflow Profile -->
+<!-- Stack Overflow Profile 
 <a href="https://stackoverflow.com/users/story/14450222"><img align='left' float = 'left' src="https://github-readme-stackoverflow.vercel.app/?userID=14450222&theme=light" height="250"></a>
-
-
-
-
-<!-- Tech Badges -->
-![Python](https://img.shields.io/badge/Python-Learning-lightgrey)
-![HTML](https://img.shields.io/badge/HTML-Learning-lightgrey)
-![CSS](https://img.shields.io/badge/CSS-Learning-lightgrey)
-![JavaScript](https://img.shields.io/badge/JavaScript-Learning-lightgrey)
-![TypeScript](https://img.shields.io/badge/TypeScript-Learning-lightgrey)
-
+-->
 
 <!-- About -->
 <p align = "left">
+  🇧🇷 From "Gambiarra lands" <br>
   🎒 I'm coursing Computer Science (CS) <br>
-  💻 OS': Linux and Win10 <br>
+  ✍🏻 Amateur writer <br>
+  🤖 ML/AI lover <br>
   😄 Pronouns: She/Her <br>
-  🐍 Pythonista
+  🐍 Pythonista <br>
   <br>
   𝐅𝐢𝐧𝐝 𝐦𝐞 𝐚𝐫𝐨𝐮𝐧𝐝 𝐭𝐡𝐞 𝐰𝐞𝐛 📫 <a href="https://taplink.cc/limaa.ds"><img alt="All my Links" src="https://img.shields.io/badge/linktree-1de9b6?logo=linktree&logoColor=white"></a>
 </p>
@@ -68,6 +60,32 @@
 
 </details>
 -->
+
+
+<!-- 𝓜𝔂 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴 -->
+<details>
+  <summary>My Tech Stack</summary>
+  
+  #### OS
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=bold&logo=ubuntu&logoColor=white)
+  ![Android](https://img.shields.io/badge/Android-3DDC84?style=bold&logo=android&logoColor=white)
+  
+  #### Skills
+  ![Python](https://img.shields.io/badge/Python-14354C?style=bold&logo=python&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=bold&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=bold&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=bold&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=bold&logo=typescript&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=bold&logo=node.js&logoColor=white)
+  ![]()
+  ![]()
+  
+  #### Others
+  ![Git](https://img.shields.io/badge/-Git-%23F05032?style=bold&logo=git&logoColor=%23ffffff)
+  ![MSOffice](https://img.shields.io/badge/Microsoft_Office-D83B01?style=bold&logo=microsoft-office&logoColor=white)
+  
+</details>
+
 
 <!-- GitHub Stats -->
 <details>
