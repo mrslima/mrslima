@@ -1,22 +1,17 @@
 <!-- Title -->
-# Hello world! I'm Daniela.&nbsp;
+<h1 align="center"> ☕ </h1>
+<!--
+<img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
+-->
 
 
 <!-- Stack Overflow Profile 
 <a href="https://stackoverflow.com/users/story/14450222"><img align='left' float = 'left' src="https://github-readme-stackoverflow.vercel.app/?userID=14450222&theme=light" height="250"></a>
 -->
 
-<!-- About -->
-<p align = "left">
-  🇧🇷 From "Gambiarra lands" <br>
-  🎒 I'm coursing Computer Science (CS) <br>
-  ✍🏻 Amateur writer <br>
-  🤖 ML/AI lover <br>
-  😄 Pronouns: She/Her <br>
-  🐍 Pythonista <br>
-  <br>
-  𝐅𝐢𝐧𝐝 𝐦𝐞 𝐚𝐫𝐨𝐮𝐧𝐝 𝐭𝐡𝐞 𝐰𝐞𝐛 📫 <a href="https://taplink.cc/limaa.ds"><img alt="All my Links" src="https://img.shields.io/badge/linktree-1de9b6?logo=linktree&logoColor=white"></a>
-</p>
+
+𝗙𝗶𝗻𝗱 𝗺𝗲 𝗮𝗿𝗼𝘂𝗻𝗱 𝘁𝗵𝗲 𝘄𝗲𝗯 📫 <a href="https://taplink.cc/limaa.ds"><img alt="All my Links" src="https://img.shields.io/badge/linktree-1de9b6?logo=linktree&logoColor=white"></a>
+
 
 
 <!-- Resume -->
@@ -62,9 +57,9 @@
 -->
 
 
-<!-- 𝓜𝔂 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴 -->
+<!-- My Tech Stack -->
 <details>
-  <summary>My Tech Stack</summary>
+  <summary>𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 👩🏻‍💻</summary>
   
   #### OS
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=bold&logo=ubuntu&logoColor=white)
@@ -89,7 +84,7 @@
 
 <!-- GitHub Stats -->
 <details>
-  <summary>𝐆𝐢𝐭𝐇𝐮𝐛 𝐏𝐮𝐛𝐥𝐢𝐜 𝐒𝐭𝐚𝐭𝐬 📈</summary>
+  <summary>𝗚𝗶𝘁𝗛𝘂𝗯 𝗽𝘂𝗯𝗹𝗶𝗰 𝘀𝘁𝗮𝘁𝘀 📈</summary>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img align = "center" src="https://github-profile-trophy.vercel.app/?username=mrslima&theme=juicyfresh&column=7&no-frame=true&no-bg=true">
   </a>
