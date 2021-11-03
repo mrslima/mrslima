@@ -1,7 +1,7 @@
 <!-- Title -->
 <h1 align="center"> ☕ </h1>
 
-<img src="https://github.com/mrslima/mrslima/blob/main/header.png" alt="header"/>
+<img src="https://github.com/mrslima/mrslima/blob/main/header.svg" alt="header"/>
 
 
 
@@ -9,8 +9,10 @@
 <a href="https://stackoverflow.com/users/story/14450222"><img align='left' float = 'left' src="https://github-readme-stackoverflow.vercel.app/?userID=14450222&theme=light" height="250"></a>
 -->
 
-
-𝗙𝗶𝗻𝗱 𝗺𝗲 𝗮𝗿𝗼𝘂𝗻𝗱 𝘁𝗵𝗲 𝘄𝗲𝗯 📫 <a href="https://taplink.cc/limaa.ds"><img alt="All my Links" src="https://img.shields.io/badge/linktree-1de9b6?logo=linktree&logoColor=white"></a>
+<p align="center">
+𝗙𝗶𝗻𝗱 𝗺𝗲 𝗮𝗿𝗼𝘂𝗻𝗱 𝘁𝗵𝗲 𝘄𝗲𝗯 📫</p>
+<br>
+<p align="center"><a href="https://taplink.cc/limaa.ds"><img alt="All my Links" src="https://img.shields.io/badge/linktree-1de9b6?logo=linktree&logoColor=white"></a></p>
 
 
 
@@ -112,12 +114,13 @@
 <img align="right" src="https://media.giphy.com/media/HmEYYrsiMZDJC/giphy.gif" width="120px">
 
 ****
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=mrslimaads&layout=wide&show_reply=off&show_retweet=off)](https://github.com/gazf/github-readme-twitter)
+
 <p align="right">
   <img src="https://img.shields.io/github/last-commit/mrslima/mrslima?label=Last%20update&style=flat">
   <img src="https://komarev.com/ghpvc/?username=mrslima&style=flat">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px">
 </p>
-
 
 
 <!--
