@@ -95,10 +95,6 @@
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mrslima&layout=compact&hide_border=true&theme=gruvbox&bg_color=00000000&langs_count=6">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=mrslima&theme=gruvbox&hide_border=true&background=FFFFFF00">
   </p>
-  
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img align = "center" src="https://activity-graph.herokuapp.com/graph?username=mrslima&theme=default&hide_border=true&bg_color=f7ede2&color=84a59d&line=f5cac3&point=84a59d&area=true&area_color=f28482">
-  </a>
 </details>
   
 -----
@@ -115,12 +111,6 @@
 ****
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=mrslimaads&layout=wide&show_reply=off&show_retweet=off)](https://github.com/gazf/github-readme-twitter)
 
-
-<p align="right">
-  <img src="https://img.shields.io/github/last-commit/mrslima/mrslima?label=Last%20update&style=flat">
-  <img src="https://komarev.com/ghpvc/?username=mrslima&style=flat">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px">
-</p>
 
 
 <!--
