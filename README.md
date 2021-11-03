@@ -108,8 +108,8 @@
 
 
 ## Now Jamming :headphones: 
-[![Spotify](https://spotifybadge.vercel.app/api/spotify)](https://open.spotify.com/user/7jlpf23yb8n91ft6vsthz68hu)
-<img align="right" src="https://media.giphy.com/media/HmEYYrsiMZDJC/giphy.gif" width="120px">
+<p><a href="https://open.spotify.com/user/7jlpf23yb8n91ft6vsthz68hu"><img src="https://spotifybadge.vercel.app/api/spotify" alt="Spotify"></a>
+<img align="right" src="https://media.giphy.com/media/HmEYYrsiMZDJC/giphy.gif" width="120px"></p>
 
 
 
