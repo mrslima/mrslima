@@ -97,7 +97,10 @@
   </p>
 </details>
   
------
+----
+<p align="center"><a href="https://github.com/gazf/github-readme-twitter"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=mrslimaads&amp;layout=wide&amp;show_reply=off&amp;show_retweet=off" alt="github-readme-twitter"></a></p>
+
+----
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mrslima&theme=default&hide_border=true&bg_color=f7ede2&color=84a59d&line=f5cac3&point=84a59d&area=true&area_color=f28482)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -108,12 +111,14 @@
 [![Spotify](https://spotifybadge.vercel.app/api/spotify)](https://open.spotify.com/user/7jlpf23yb8n91ft6vsthz68hu)
 <img align="right" src="https://media.giphy.com/media/HmEYYrsiMZDJC/giphy.gif" width="120px">
 
-****
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=mrslimaads&layout=wide&show_reply=off&show_retweet=off)](https://github.com/gazf/github-readme-twitter)
+
 
 
 
 <!--
+Twitter Badge:
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=mrslimaads&layout=wide&show_reply=off&show_retweet=off)](https://github.com/gazf/github-readme-twitter)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
