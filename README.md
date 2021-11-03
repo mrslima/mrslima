@@ -1,5 +1,3 @@
-<!-- Title -->
-<h1 align="center"> ☕ </h1>
 
 <img src="https://github.com/mrslima/mrslima/blob/main/header.svg" alt="header"/>
 
