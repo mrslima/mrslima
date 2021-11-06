@@ -76,6 +76,10 @@
     <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=bold&logo=css3&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=bold&logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=bold&logo=typescript&logoColor=white"></a>
+    <a href="#"><img alt="" src=""></a>
+    <a href="#"><img alt="" src=""></a>
+    <a href="#"><img alt="" src=""></a>
+    
   </p>
   
   <h3 align="center">Database</h3>
@@ -83,6 +87,8 @@
     <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=bold&logo=sqlite&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=bold&logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=bold&logo=mariadb&logoColor=white"></a>
+    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=bold&logo=mongodb&logoColor=4EA94B"></a>
+    <a href="#"><img alt="" src=""></a>
     <a href="#"><img alt="" src=""></a>
     <a href="#"><img alt="" src=""></a>
   </p>
@@ -94,12 +100,25 @@
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=bold&logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="QT" src="https://img.shields.io/badge/Qt-41CD52?style=bold&logo=qt&logoColor=white"></a>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=bold&logo=django&logoColor=green"></a>
+    <a href="#"><img alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=bold&logo=npm&logoColor=white"></a>
+    <a href="#"><img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=bold&logo=express&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=bold&logo=react&logoColor=61DAFB"></a>
+    <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=bold&logo=redux&logoColor=white"></a>
+    <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=bold&logo=jest&logoColor=white"></a>
+    <a href="#"><img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=bold&logo=nextdotjs&logoColor=white"></a>
+    <a href="#"><img alt="Strapi" src="https://img.shields.io/badge/strapi-2e7eea?style=bold&logo=strapi&logoColor=white"></a>
+    <a href="#"><img alt="" src=""></a>
+    <a href="#"><img alt="" src=""></a>
+    <a href="#"><img alt="" src=""></a>
+    <a href="#"><img alt="" src=""></a>
+    
   </p>
   
   <h3 align="center">Others</h3>
   <p align="center">
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/-Git-%23F05032?style=bold&logo=git&logoColor=%23ffffff"></a>
     <a href="#"><img alt="MSOffice" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=bold&logo=microsoft-office&logoColor=white"></a>
+    <a href="#"><img alt="" src=""></a>
     <a href="#"><img alt="" src=""></a>
     <a href="#"><img alt="" src=""></a>
   </p>
