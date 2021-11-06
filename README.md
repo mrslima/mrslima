@@ -63,16 +63,17 @@
   <summary>𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 👩🏻‍💻</summary>
   <h3 align="center">OS</h3>
   <p align="center">
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=bold&logo=linux&logoColor=black"></a>
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/𝗟𝗶𝗻𝘂𝘅-FCC624?style=bold&logo=linux&logoColor=black"></a>
+    <a href="#"><img alt="Arch" src="https://img.shields.io/badge/𝙗𝙩𝙬 𝙄 𝙪𝙨𝙚 𝘼𝙧𝙘𝙝-1793D1?style=bold&logo=arch-linux&logoColor=white"></a>
   </p>
   
   <h3 align="center">Languages</h3>
   <p align="center">
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=bold&logo=python&logoColor=white"></a>
-    <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=bold&logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=bold&logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=bold&logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=bold&logo=typescript&logoColor=white"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/𝗣𝘆𝘁𝗵𝗼𝗻-14354C?style=bold&logo=python&logoColor=white"></a>
+    <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/𝗛𝗧𝗠𝗟𝟱-E34F26?style=bold&logo=html5&logoColor=white"></a>
+    <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/𝗖𝗦𝗦𝟯-1572B6?style=bold&logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁-F7DF1E?style=bold&logo=javascript&logoColor=black"></a>
+    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁-007ACC?style=bold&logo=typescript&logoColor=white"></a>
     <a href="#"><img alt="" src=""></a>
     <a href="#"><img alt="" src=""></a>
     <a href="#"><img alt="" src=""></a>
