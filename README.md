@@ -93,18 +93,18 @@
   
   <h3 align="center">Frameworks</h3>
   <p align="center">
-    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=bold&logo=node.js&logoColor=white"></a>
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=bold&logo=Selenium&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=bold&logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="QT" src="https://img.shields.io/badge/Qt-41CD52?style=bold&logo=qt&logoColor=white"></a>
-    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=bold&logo=django&logoColor=green"></a>
-    <a href="#"><img alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=bold&logo=npm&logoColor=white"></a>
-    <a href="#"><img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=bold&logo=express&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=bold&logo=react&logoColor=61DAFB"></a>
-    <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=bold&logo=redux&logoColor=white"></a>
-    <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=bold&logo=jest&logoColor=white"></a>
-    <a href="#"><img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=bold&logo=nextdotjs&logoColor=white"></a>
-    <a href="#"><img alt="Strapi" src="https://img.shields.io/badge/strapi-2e7eea?style=bold&logo=strapi&logoColor=white"></a>
+    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/𝗡𝗼𝗱𝗲.𝗝𝗦-43853D?style=bold&logo=node.js&logoColor=white"></a>
+    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/𝗦𝗲𝗹𝗲𝗻𝗶𝘂𝗺-43B02A?style=bold&logo=Selenium&logoColor=white"></a>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/𝗝𝘂𝗽𝘆𝘁𝗲𝗿-F37626.svg?&style=bold&logo=Jupyter&logoColor=white"></a>
+    <a href="#"><img alt="QT" src="https://img.shields.io/badge/𝗤𝗧-41CD52?style=bold&logo=qt&logoColor=white"></a>
+    <a href="#"><img alt="Django" src="https://img.shields.io/badge/𝗗𝗷𝗮𝗻𝗴𝗼-092E20?style=bold&logo=django&logoColor=green"></a>
+    <a href="#"><img alt="NPM" src="https://img.shields.io/badge/𝗡𝗣𝗠 -CB3837?style=bold&logo=npm&logoColor=white"></a>
+    <a href="#"><img alt="ExpressJS" src="https://img.shields.io/badge/𝗘𝘅𝗽𝗿𝗲𝘀𝘀.𝗝𝗦-000000?style=bold&logo=express&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/𝗥𝗲𝗮𝗰𝘁-20232A?style=bold&logo=react&logoColor=61DAFB"></a>
+    <a href="#"><img alt="Redux" src="https://img.shields.io/badge/𝗥𝗲𝗱𝘂𝘅-593D88?style=bold&logo=redux&logoColor=white"></a>
+    <a href="#"><img alt="Jest" src="https://img.shields.io/badge/𝗝𝗲𝘀𝘁-C21325?style=bold&logo=jest&logoColor=white"></a>
+    <a href="#"><img alt="NextJS" src="https://img.shields.io/badge/𝗡𝗲𝘅𝘁.𝗝𝗦-000000?style=bold&logo=nextdotjs&logoColor=white"></a>
+    <a href="#"><img alt="Strapi" src="https://img.shields.io/badge/𝗦𝘁𝗿𝗮𝗽𝗶-2e7eea?style=bold&logo=strapi&logoColor=white"></a>
     <a href="#"><img alt="" src=""></a>
     <a href="#"><img alt="" src=""></a>
     <a href="#"><img alt="" src=""></a>
