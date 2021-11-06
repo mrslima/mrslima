@@ -63,6 +63,8 @@
   <summary>𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 👩🏻‍💻</summary>
   <h3 align="center">OS</h3>
   <p align="center">
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=bold&logo=linux&logoColor=black"></a>
+    <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=bold&logo=ubuntu&logoColor=white"></a>
     <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=bold&logo=ubuntu&logoColor=white"></a>
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=bold&logo=android&logoColor=white"></a>
   </p>
