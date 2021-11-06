@@ -82,10 +82,10 @@
   
   <h3 align="center">Database</h3>
   <p align="center">
-    <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=bold&logo=sqlite&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=bold&logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=bold&logo=mariadb&logoColor=white"></a>
-    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=bold&logo=mongodb&logoColor=4EA94B"></a>
+    <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/𝗦𝗤𝗟𝗶𝘁𝗲-07405E?style=bold&logo=sqlite&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/𝗠𝘆𝗦𝗤𝗟-00000F?style=bold&logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/𝗠𝗮𝗿𝗶𝗮𝗗𝗕-003545?style=bold&logo=mariadb&logoColor=white"></a>
+    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/𝗠𝗼𝗻𝗴𝗼𝗗𝗕-white?style=bold&logo=mongodb&logoColor=4EA94B"></a>
     <a href="#"><img alt="" src=""></a>
     <a href="#"><img alt="" src=""></a>
     <a href="#"><img alt="" src=""></a>
@@ -114,8 +114,8 @@
   
   <h3 align="center">Others</h3>
   <p align="center">
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/-Git-%23F05032?style=bold&logo=git&logoColor=%23ffffff"></a>
-    <a href="#"><img alt="MSOffice" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=bold&logo=microsoft-office&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/-𝗚𝗶𝘁-%23F05032?style=bold&logo=git&logoColor=%23ffffff"></a>
+    <a href="#"><img alt="MSOffice" src="https://img.shields.io/badge/𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗢𝗳𝗳𝗶𝗰𝗲-D83B01?style=bold&logo=microsoft-office&logoColor=white"></a>
     <a href="#"><img alt="" src=""></a>
     <a href="#"><img alt="" src=""></a>
     <a href="#"><img alt="" src=""></a>
