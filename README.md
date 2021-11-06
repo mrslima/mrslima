@@ -69,16 +69,33 @@
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=bold&logo=android&logoColor=white"></a>
   </p>
   
-  <h3 align="center">Skills</h3>
+  <h3 align="center">Languages</h3>
   <p align="center">
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=bold&logo=python&logoColor=white"></a>
     <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=bold&logo=html5&logoColor=white"></a>
     <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=bold&logo=css3&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=bold&logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=bold&logo=typescript&logoColor=white"></a>
-    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=bold&logo=node.js&logoColor=white"></a>
   </p>
-    
+  
+  <h3 align="center">Database</h3>
+  <p align="center">
+    <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=bold&logo=sqlite&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=bold&logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=bold&logo=mariadb&logoColor=white"></a>
+    <a href="#"><img alt="" src=""></a>
+    <a href="#"><img alt="" src=""></a>
+  </p>
+  
+  <h3 align="center">Frameworks</h3>
+  <p align="center">
+    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=bold&logo=node.js&logoColor=white"></a>
+    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=bold&logo=Selenium&logoColor=white"></a>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=bold&logo=Jupyter&logoColor=white"></a>
+    <a href="#"><img alt="QT" src="https://img.shields.io/badge/Qt-41CD52?style=bold&logo=qt&logoColor=white"></a>
+    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=bold&logo=django&logoColor=green"></a>
+  </p>
+  
   <h3 align="center">Others</h3>
   <p align="center">
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/-Git-%23F05032?style=bold&logo=git&logoColor=%23ffffff"></a>
