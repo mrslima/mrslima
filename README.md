@@ -2,18 +2,18 @@
 <img src="https://github.com/mrslima/mrslima/blob/main/header.svg" alt="header"/>
 
 
-
 <!-- Stack Overflow Profile 
 <a href="https://stackoverflow.com/users/story/14450222"><img align='left' float = 'left' src="https://github-readme-stackoverflow.vercel.app/?userID=14450222&theme=light" height="250"></a>
 -->
+
 
 <p align="center">
 𝗙𝗶𝗻𝗱 𝗺𝗲 𝗮𝗿𝗼𝘂𝗻𝗱 𝘁𝗵𝗲 𝘄𝗲𝗯 📫</p>
 <br>
 <p align="center"><a href="https://taplink.cc/limaa.ds"><img alt="All my Links" src="https://img.shields.io/badge/linktree-1de9b6?logo=linktree&logoColor=white"></a></p>
 
-<!-- My Tech Stack -->
 
+<!-- My Tech Stack -->
 <details>
   <summary>𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 👩🏻‍💻</summary>
   <h3 align="center">OS</h3>
@@ -87,8 +87,9 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=mrslima&theme=gruvbox&hide_border=true&background=FFFFFF00">
   </p>
 </details>
-  
+
 ----
+
 <p align="center"><a href="https://github.com/gazf/github-readme-twitter"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=mrslimaads&amp;layout=wide&amp;show_reply=off&amp;show_retweet=off" alt="github-readme-twitter"></a></p>
 
 ----
@@ -102,25 +103,6 @@
 <p><a href="https://open.spotify.com/user/7jlpf23yb8n91ft6vsthz68hu"><img src="https://spotifybadge.vercel.app/api/spotify" alt="Spotify"></a>
 <img align="right" src="https://media.giphy.com/media/HmEYYrsiMZDJC/giphy.gif" width="120px"></p>
 
-
-
-
-
-<!--
-Twitter Badge:
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=mrslimaads&layout=wide&show_reply=off&show_retweet=off)](https://github.com/gazf/github-readme-twitter)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <!--
 <details>
