@@ -15,7 +15,7 @@
 
 <!-- My Tech Stack -->
 <details>
-  <summary>𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 👩🏻‍💻</summary>
+  <summary>𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 (Learning) 👩🏻‍💻</summary>
   <h3 align="center">OS</h3>
   <p align="center">
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/𝗟𝗶𝗻𝘂𝘅-FCC624?style=bold&logo=linux&logoColor=black"></a>
@@ -39,12 +39,14 @@
   <p align="center">
     <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/𝗦𝗤𝗟𝗶𝘁𝗲-07405E?style=bold&logo=sqlite&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/𝗠𝘆𝗦𝗤𝗟-00000F?style=bold&logo=mysql&logoColor=white"></a>
+  </p>
+  <!--
     <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/𝗠𝗮𝗿𝗶𝗮𝗗𝗕-003545?style=bold&logo=mariadb&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/𝗠𝗼𝗻𝗴𝗼𝗗𝗕-white?style=bold&logo=mongodb&logoColor=4EA94B"></a>
     <a href="#"><img alt="" src=""></a>
     <a href="#"><img alt="" src=""></a>
     <a href="#"><img alt="" src=""></a>
-  </p>
+
   
   <h3 align="center">Frameworks</h3>
   <p align="center">
@@ -66,7 +68,8 @@
     <a href="#"><img alt="" src=""></a>
     
   </p>
-  
+-->  
+
   <h3 align="center">Others</h3>
   <p align="center">
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/-𝗚𝗶𝘁-%23F05032?style=bold&logo=git&logoColor=%23ffffff"></a>
@@ -87,10 +90,6 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=mrslima&theme=gruvbox&hide_border=true&background=FFFFFF00">
   </p>
 </details>
-
-----
-
-<p align="center"><a href="https://github.com/gazf/github-readme-twitter"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=mrslimaads&amp;layout=wide&amp;show_reply=off&amp;show_retweet=off" alt="github-readme-twitter"></a></p>
 
 ----
 
