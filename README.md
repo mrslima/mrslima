@@ -29,6 +29,7 @@
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/C%2B%2B-00599C?style=bold&logo=c%2B%2B&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/PHP-777BB4?style=bold&logo=php&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/𝗣𝘆𝘁𝗵𝗼𝗻-14354C?style=bold&logo=python&logoColor=white"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Java-ED8B00?style=bold&logo=java&logoColor=white"></a>
     <br>
     <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/𝗛𝗧𝗠𝗟𝟱-E34F26?style=bold&logo=html5&logoColor=white"></a>
     <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/𝗖𝗦𝗦𝟯-1572B6?style=bold&logo=css3&logoColor=white"></a>
