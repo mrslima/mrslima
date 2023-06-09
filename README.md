@@ -45,35 +45,6 @@
   <p align="center">
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/𝗠𝘆𝗦𝗤𝗟-00000F?style=bold&logo=mysql&logoColor=white"></a>
   </p>
-  <!--
-    <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/𝗠𝗮𝗿𝗶𝗮𝗗𝗕-003545?style=bold&logo=mariadb&logoColor=white"></a>
-    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/𝗠𝗼𝗻𝗴𝗼𝗗𝗕-white?style=bold&logo=mongodb&logoColor=4EA94B"></a>
-    <a href="#"><img alt="" src=""></a>
-    <a href="#"><img alt="" src=""></a>
-    <a href="#"><img alt="" src=""></a>
-
-  
-  <h3 align="center">Frameworks</h3>
-  <p align="center">
-    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/𝗡𝗼𝗱𝗲.𝗝𝗦-43853D?style=bold&logo=node.js&logoColor=white"></a>
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/𝗦𝗲𝗹𝗲𝗻𝗶𝘂𝗺-43B02A?style=bold&logo=Selenium&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/𝗝𝘂𝗽𝘆𝘁𝗲𝗿-F37626.svg?&style=bold&logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="QT" src="https://img.shields.io/badge/𝗤𝗧-41CD52?style=bold&logo=qt&logoColor=white"></a>
-    <a href="#"><img alt="Django" src="https://img.shields.io/badge/𝗗𝗷𝗮𝗻𝗴𝗼-092E20?style=bold&logo=django&logoColor=green"></a>
-    <a href="#"><img alt="NPM" src="https://img.shields.io/badge/𝗡𝗣𝗠 -CB3837?style=bold&logo=npm&logoColor=white"></a>
-    <a href="#"><img alt="ExpressJS" src="https://img.shields.io/badge/𝗘𝘅𝗽𝗿𝗲𝘀𝘀.𝗝𝗦-000000?style=bold&logo=express&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/𝗥𝗲𝗮𝗰𝘁-20232A?style=bold&logo=react&logoColor=61DAFB"></a>
-    <a href="#"><img alt="Redux" src="https://img.shields.io/badge/𝗥𝗲𝗱𝘂𝘅-593D88?style=bold&logo=redux&logoColor=white"></a>
-    <a href="#"><img alt="Jest" src="https://img.shields.io/badge/𝗝𝗲𝘀𝘁-C21325?style=bold&logo=jest&logoColor=white"></a>
-    <a href="#"><img alt="NextJS" src="https://img.shields.io/badge/𝗡𝗲𝘅𝘁.𝗝𝗦-000000?style=bold&logo=nextdotjs&logoColor=white"></a>
-    <a href="#"><img alt="Strapi" src="https://img.shields.io/badge/𝗦𝘁𝗿𝗮𝗽𝗶-2e7eea?style=bold&logo=strapi&logoColor=white"></a>
-    <a href="#"><img alt="" src=""></a>
-    <a href="#"><img alt="" src=""></a>
-    <a href="#"><img alt="" src=""></a>
-    <a href="#"><img alt="" src=""></a>
-    
-  </p>
--->  
 
   <h3 align="center">Others</h3>
   <p align="center">
@@ -98,12 +69,3 @@
 </details>
 
 ----
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mrslima&theme=default&hide_border=true&bg_color=f7ede2&color=84a59d&line=f5cac3&point=84a59d&area=true&area_color=f28482)](https://github.com/ashutosh00710/github-readme-activity-graph)
- cool soft black 24292e -->
-
-
-## Now Jamming :headphones: 
-<a href="https://open.spotify.com/user/31zjctmowkfhwodxci4rtwsnwvhi"><img src="https://spotifybadge.vercel.app/api/spotify" alt="Spotify"></a>
-
