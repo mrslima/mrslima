@@ -17,7 +17,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: github-profile-3d-contrib/sample-settings/gitblock.json
+          SETTING_JSON: yoshi389111/github-profile-3d-contrib/sample-settings/gitblock.json
       - name: Commit & Push
         run: |
           git config user.name github-actions
