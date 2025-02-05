@@ -11,9 +11,9 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v4
-      - uses: ./.github/workflows/profile-3d.yml
+      - uses: mrslima/3d-contrib@abacaxi
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets._REPO_SECRET }}
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
