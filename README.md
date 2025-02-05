@@ -1,6 +1,3 @@
-<style>
-  img {pointer-events: none;}
-</style>
 
 <h1 align="center">Helloooo👋</h1>
 
