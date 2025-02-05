@@ -100,19 +100,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
 </div>
 
-
-
-
-
-<h2 align="left">Posts</h2>
-
-<div align="center">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mrslima/0" alt="Recent Article 0">
-  
-</div>
-
-
-
+<br>
+<br>
+<br>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
