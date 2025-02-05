@@ -1,71 +1,161 @@
+<h1 align="center">Helloooo👋</h1>
 
-<img src="https://github.com/mrslima/mrslima/blob/main/header.svg" alt="header"/>
+###
 
+<br clear="both">
 
-<!-- Stack Overflow Profile 
-<a href="https://stackoverflow.com/users/story/14450222"><img align='left' float = 'left' src="https://github-readme-stackoverflow.vercel.app/?userID=14450222&theme=light" height="250"></a>
--->
+<div align="center">
+  <img height="250" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0a4e90b8-a7c8-4019-90f1-b9eb16a6fe6b/d7i06j2-209054b9-be1e-46b0-aa61-ffbe4dc1ebda.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBhNGU5MGI4LWE3YzgtNDAxOS05MGYxLWI5ZWIxNmE2ZmU2YlwvZDdpMDZqMi0yMDkwNTRiOS1iZTFlLTQ2YjAtYWE2MS1mZmJlNGRjMWViZGEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Qt1_4hixKd8mTuRub4aksuPW1ZIDK-r7X6Rhh5lnqtI"  />
+</div>
 
+###
 
-<p align="center">
-𝗙𝗶𝗻𝗱 𝗺𝗲 𝗮𝗿𝗼𝘂𝗻𝗱 𝘁𝗵𝗲 𝘄𝗲𝗯 📫</p>
-<br>
-<p align="center"><a href="https://taplink.cc/limaa.ds"><img alt="All my Links" src="https://img.shields.io/badge/linktree-1de9b6?logo=linktree&logoColor=white"></a></p>
+<p align="center">I'm Daniela, a SAP Integrations Consultant and also a weekend-time Game Developer</p>
 
+###
 
-<!-- My Tech Stack -->
-<details>
-  <summary>𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 (Learning) 👩🏻‍💻</summary>
-  <h3 align="center">OS</h3>
-  <p align="center">
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/𝗟𝗶𝗻𝘂𝘅-FCC624?style=bold&logo=linux&logoColor=black"></a>
-    <a href="#"><img alt="Arch" src="https://img.shields.io/badge/Windows-0078D6?style=bold&logo=windows&logoColor=white"></a>
-  </p>
-  
-  <h3 align="center">Languages</h3>
-  <p align="center">
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/𝗣𝘆𝘁𝗵𝗼𝗻-14354C?style=bold&logo=python&logoColor=white"></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/C-00599C?style=bold&logo=c&logoColor=white"></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/C%2B%2B-00599C?style=bold&logo=c%2B%2B&logoColor=white"></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/PHP-777BB4?style=bold&logo=php&logoColor=white"></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/𝗣𝘆𝘁𝗵𝗼𝗻-14354C?style=bold&logo=python&logoColor=white"></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Java-ED8B00?style=bold&logo=java&logoColor=white"></a>
-    <br>
-    <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/𝗛𝗧𝗠𝗟𝟱-E34F26?style=bold&logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/𝗖𝗦𝗦𝟯-1572B6?style=bold&logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁-F7DF1E?style=bold&logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁-007ACC?style=bold&logo=typescript&logoColor=white"></a>
-    <a href="#"><img alt="" src=""></a>
-    <a href="#"><img alt="" src=""></a>
-    <a href="#"><img alt="" src=""></a>
-    
-  </p>
-  
-  <h3 align="center">Database</h3>
-  <p align="center">
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/𝗠𝘆𝗦𝗤𝗟-00000F?style=bold&logo=mysql&logoColor=white"></a>
-  </p>
+<h3 align="center">Where to find me 👇</h3>
 
-  <h3 align="center">Others</h3>
-  <p align="center">
-    <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SAP-0FAAFF?style=bold&logo=sap&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/-𝗚𝗶𝘁-%23F05032?style=bold&logo=git&logoColor=%23ffffff"></a>
-    <a href="#"><img alt="MSOffice" src="https://img.shields.io/badge/𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗢𝗳𝗳𝗶𝗰𝗲-D83B01?style=bold&logo=microsoft-office&logoColor=white"></a>
-    <a href="#"><img alt="" src=""></a>
-    <a href="#"><img alt="" src=""></a>
-    <a href="#"><img alt="" src=""></a>
-  </p>
-</details>
+###
 
+<br clear="both">
 
-<!-- GitHub Stats -->
-<details>
-  <summary>𝗚𝗶𝘁𝗛𝘂𝗯 𝗽𝘂𝗯𝗹𝗶𝗰 𝘀𝘁𝗮𝘁𝘀 📈</summary>
-  <p align = "center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=mrslima&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&hide=issues&bg_color=00000000">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mrslima&layout=compact&hide_border=true&theme=gruvbox&bg_color=00000000&langs_count=6">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=mrslima&theme=gruvbox&hide_border=true&background=FFFFFF00">
-  </p>
-</details>
+<div align="center">
+  <a href="https://taplink.cc/limaa.ds" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
+  </a>
+</div>
 
-----
+###
+
+<h2 align="left">About Me</h2>
+
+###
+
+<p align="left">🔭 I’m currently working on my game calles MistMaze with my sister (artist)</p>
+
+###
+
+<p align="left">🌱 I’m currently learning C#, C++ and Unity</p>
+
+###
+
+<p align="left">❤️ I love pixel art games</p>
+
+###
+
+<h2 align="left">Language and tools</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" height="40" alt="groovy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="haskell logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/opengl/5586A4" height="40" alt="opengl logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&theme=darcula&username=mrslima" alt="Layout with last medium posts"  />
+</div>
+
+###
