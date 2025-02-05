@@ -6,7 +6,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: mkdir 3d-contrib
-      - name: List files in the repository
-        run: |
-          ls ${{ github.workspace }}
+      - name: REPO SECRET
+      - run: echo ${{ secrets._REPO_SECRET }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
