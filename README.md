@@ -1,53 +1,44 @@
 
 <h1 align="center">Helloooo👋</h1>
 
-###
-
-<br clear="both">
-
 <div align="center">
   <img height="250" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0a4e90b8-a7c8-4019-90f1-b9eb16a6fe6b/d7i06j2-209054b9-be1e-46b0-aa61-ffbe4dc1ebda.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBhNGU5MGI4LWE3YzgtNDAxOS05MGYxLWI5ZWIxNmE2ZmU2YlwvZDdpMDZqMi0yMDkwNTRiOS1iZTFlLTQ2YjAtYWE2MS1mZmJlNGRjMWViZGEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Qt1_4hixKd8mTuRub4aksuPW1ZIDK-r7X6Rhh5lnqtI"  />
 </div>
 
-###
-
 <p align="center">I'm Daniela, a SAP Integrations Consultant and also a weekend-time Game Developer</p>
+<br>
+<br>
+<br>
 
-###
 
-<h3 align="center">Where to find me 👇</h3>
 
-###
 
-<br clear="both">
 
-<div align="center">
-  <a href="https://taplink.cc/limaa.ds" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
-  </a>
-</div>
+<h2 align="left">Contact Me</h2>
+<dl>
+  <dt>Discord</dt>
+  <dd>- psyoops</dd>
+  <dt>Mail</dt>
+  <dd>- danielalimaa.ds@gmail.com</dd>
+  <dt>All my links</dt>
+  <dd>- https://taplink.cc/limaa.ds</dd>
+</dl>
 
-###
 
-<h2 align="left">About Me</h2>
 
-###
+
+
+<h2 align="left">About:</h2>
 
 <p align="left">🔭 I’m currently working on my game calles MistMaze with my sister (artist)</p>
-
-###
-
 <p align="left">🌱 I’m currently learning C#, C++ and Unity</p>
-
-###
-
 <p align="left">❤️ I love pixel art games</p>
 
-###
+
+
+
 
 <h2 align="left">Language and tools</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -73,8 +64,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
-###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
   <img width="12" />
@@ -99,8 +88,6 @@
   <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo"  />
 </div>
 
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
   <img width="12" />
@@ -113,55 +100,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
 </div>
 
-###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
-</div>
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
-</div>
-
-###
 
 <h2 align="left">Posts</h2>
-
-###
 
 <div align="center">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mrslima/0" alt="Recent Article 0">
   
 </div>
 
-###
