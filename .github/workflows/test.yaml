@@ -7,5 +7,5 @@ jobs:
     steps:
       - run: mkdir 3d-contrib
       - name: REPO SECRET
-      - run: echo ${{ secrets._REPO_SECRET }}
+      - run: echo "${{ secrets._REPO_SECRET }}"
       - run: echo "🍏 This job's status is ${{ job.status }}."
