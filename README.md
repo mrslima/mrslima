@@ -155,8 +155,13 @@
 
 ###
 
+<h2 align="left">Posts</h2>
+
+###
+
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&theme=darcula&username=mrslima" alt="Layout with last medium posts"  />
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mrslima/0" alt="Recent Article 0">
+  
 </div>
 
 ###
