@@ -5,13 +5,13 @@
   <img height="250" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0a4e90b8-a7c8-4019-90f1-b9eb16a6fe6b/d7i06j2-209054b9-be1e-46b0-aa61-ffbe4dc1ebda.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBhNGU5MGI4LWE3YzgtNDAxOS05MGYxLWI5ZWIxNmE2ZmU2YlwvZDdpMDZqMi0yMDkwNTRiOS1iZTFlLTQ2YjAtYWE2MS1mZmJlNGRjMWViZGEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Qt1_4hixKd8mTuRub4aksuPW1ZIDK-r7X6Rhh5lnqtI"  />
 </div>
 
-<p align="center">I'm Daniela, a SAP Integrations Consultant and also a weekend-time Game Developer</p>
-<br>
-<br>
-<br>
+<p align="center">
+  I'm Daniela, a  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" alt="SAP Logo" width="25"/>SAP Integration Consultant and also a weekend-time Game Developer
+</p>
 
 
-
+<br>
+<br>
 
 
 <h2 align="left">Contact Me</h2>
