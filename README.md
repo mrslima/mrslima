@@ -15,16 +15,21 @@
 
 
 <h2 align="left">Contact Me</h2>
-<dl>
-  <dt>Discord</dt>
-  <dd>- psyoops</dd>
-  <dt>Mail</dt>
-  <dd>- danielalimaa.ds@gmail.com</dd>
-  <dt>All my links</dt>
-  <dd>- https://taplink.cc/limaa.ds</dd>
-</dl>
-
-
+<table border="0" align="center">
+  <tr>
+    <td>
+        <img src="https://github.com/SapphDevelopment/discord-icons/blob/f01b6736d8e0931e56e314bf68d8bf1192cef4c8/Discord%20Branding/Clyde/icon_clyde_blurple_RGB.svg" 
+             alt="discord_logo" 
+             width="15px">
+        <b>Discord</b>
+    </td>
+    <td><i>psyoops</i></td>
+    <td>📫<b>Mail</b></td>
+    <td><i>danielalimaa.ds@gmail.com</i></td>
+    <td>🌐<b>All my links</b></td>
+    <td><i><a href="https://taplink.cc/limaa.ds" target="_blank">taplink.cc/limaa.ds</a></i></td>
+  </tr>
+</table>
 
 
 
