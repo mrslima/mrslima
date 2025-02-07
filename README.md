@@ -1,18 +1,21 @@
 
-<h1 align="center">Helloooo👋</h1>
+<h1 align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnB2dWM2b3R3Y2M2Y2xhbGFsdnUzeHRvbHJ1MWhoODIwOWVoeXJ0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fLp2fTpKTZsj2xW1zI/giphy.gif" alt="hello" width="50px"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJzbzVqcXk1YnJzYjI0czNsN3lmaDUyN3I5bmxvaXFpZm1hcDBuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/t6Kf2qs5fgWiAlOig5/giphy.gif" alt="hello" width="50px"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmFyZzRndGd4cWJkdHVlOW9yOGFqNXhicmkxczcwMGs3cmFyMmF3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w6YCfXHS6QZjeHlVpI/giphy.gif" alt="hello" width="50px"/>  Helloooo  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamQzeTJ6Y21oMGM5NHM4cXYwdWp4aG9za2tzMGo3ajgyamx3ZW1kbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/40a8jFMt0sc73UtpaH/giphy.gif" alt="hello" width="50px"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2FweWlhdXVjdzlmeGk3ZGxzeHRyOG95dzQxY2czY29hdWt1bTFuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2w4M7YOoLyLmbiRPPg/giphy.gif" alt="hello" width="50px"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3V3ZmV5NmQ2dHI5OXg0eDNpbHBjMXZzZ3M5ZG93cWw5ZTNydGlubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OjraDCulT8NSP56tcI/giphy.gif" alt="hello" width="50px"/>
+</h1>
 
 <div align="center">
-  <img height="250" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0a4e90b8-a7c8-4019-90f1-b9eb16a6fe6b/d7i06j2-209054b9-be1e-46b0-aa61-ffbe4dc1ebda.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBhNGU5MGI4LWE3YzgtNDAxOS05MGYxLWI5ZWIxNmE2ZmU2YlwvZDdpMDZqMi0yMDkwNTRiOS1iZTFlLTQ2YjAtYWE2MS1mZmJlNGRjMWViZGEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Qt1_4hixKd8mTuRub4aksuPW1ZIDK-r7X6Rhh5lnqtI"  />
+  <img height="200" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0a4e90b8-a7c8-4019-90f1-b9eb16a6fe6b/d7i06j2-209054b9-be1e-46b0-aa61-ffbe4dc1ebda.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBhNGU5MGI4LWE3YzgtNDAxOS05MGYxLWI5ZWIxNmE2ZmU2YlwvZDdpMDZqMi0yMDkwNTRiOS1iZTFlLTQ2YjAtYWE2MS1mZmJlNGRjMWViZGEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Qt1_4hixKd8mTuRub4aksuPW1ZIDK-r7X6Rhh5lnqtI"  />
 </div>
 
 <p align="center">
   I'm Daniela, a  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" alt="SAP Logo" width="25"/>SAP Integration Consultant and also a weekend-time Game Developer
 </p>
 
-
 <br>
-<br>
-
 
 <h2 align="left">Contact Me</h2>
 <table border="0" align="center">
@@ -105,6 +108,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
 </div>
 
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGs3MjZ2Mm1haWZzajdhMHJlYXE5dmN2cWF5enFoemdmeTlqZmMwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRDuN32tiOevbMTNMK/giphy.gif" alt="hello" width="50px"/>
+</div>
 <!--
 <br>
 <br>
