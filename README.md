@@ -30,7 +30,7 @@
 
 <h2 align="left">About:</h2>
 
-<p align="left">🔭 I’m currently working on my game calles Caligo Quest with my sister (artist)</p>
+<p align="left">🔭 I’m currently working on my game called Caligo Quest with my sister (artist)</p>
 <p align="left">🌱 I’m currently learning C#, C++ and Unity</p>
 <p align="left">❤️ I love pixel art games</p>
 
