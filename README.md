@@ -36,7 +36,7 @@
     <td>📫<b>Mail</b></td>
     <td><i>danielalimaa.ds@gmail.com</i></td>
     <td>🌐<b>All my links</b></td>
-    <td><i><a href="https://taplink.cc/limaa.ds" target="_blank">taplink.cc/limaa.ds</a></i></td>
+    <td><i><a href="https://linktr.ee/zxcdanidani" target="_blank">LinkTree</a></i></td>
   </tr>
 </table>
 
