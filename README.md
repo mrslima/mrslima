@@ -18,7 +18,7 @@
 </div>
 
 <p align="center">
-  I'm Daniela, a  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" alt="SAP Logo" width="25"/>SAP Integration Consultant and also a weekend-time newbie Game Developer
+  I'm Daniela, a  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" alt="SAP Logo" width="25"/>SAP Integration Consultant and also a weekend-time newbie Mobile Developer
 </p>
 
 <br>
@@ -45,7 +45,7 @@
 <h2 align="left">About:</h2>
 
 <p align="left">🔭 I’m currently working on my game called Caligo Quest with my sister (artist)</p>
-<p align="left">🌱 I’m currently learning C#, Lua and Unity</p>
+<p align="left">🌱 I’m currently learning Kotlin and Mobile development</p>
 <p align="left">❤️ I love pixel art games</p>
 
 
