@@ -44,8 +44,8 @@
 
 <h2 align="left">About:</h2>
 
-<p align="left">🔭 I’m currently working on my game called Caligo Quest with my sister (artist)</p>
-<p align="left">🌱 I’m currently learning Kotlin and Mobile development</p>
+
+<p align="left">🎸 I am currently focused on <b>music production</b>. You can check out my latest tracks here: <a href="https://open.spotify.com/artist/3PFOv1m0KTRLfy2Arkx0dK?si=Z9mvgBqmR5mp2QguSWqqpQ"><b>Spotify</b></a></p>
 <p align="left">❤️ I love pixel art games</p>
 
 
