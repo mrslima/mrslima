@@ -32,7 +32,7 @@
              width="15px">
         <b>Discord</b>
     </td>
-    <td><i>psyoops</i></td>
+    <td><i>psyoops_</i></td>
     <td>📫<b>Mail</b></td>
     <td><i>danielalimaa.ds@gmail.com</i></td>
     <td>🌐<b>All my links</b></td>
